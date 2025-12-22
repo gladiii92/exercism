@@ -1,0 +1,14 @@
+1. 
+exercism download --track=python --exercise=guidos-gorgeous-lasagna
+
+2.
+git pull --rebase origin main
+
+3.
+git add python/ÜBUNGSNAME
+
+4.
+git commit -m "Solve Exercism Python: ÜBUNGSNAME"
+
+5.
+git push origin main
